@@ -122,11 +122,15 @@ Total Supply: 100,000,000,000 (100 Billion)
 
 5.1 Distribution
 Allocation	Percentage	Purpose
+
 Community & Airdrops :-40%	(Growth, engagement, rewards)
+
 Liquidity Pool :-35%	(Trading stability, locked liquidity)
+
 Team & Development:-10%	(Locked & vested for long‑term trust)
 
 Marketing & Partnerships:-10%	(Promotions, listings, influencers)
+
 Reserve Treasury:-5%	(Future expansion & emergencies)
 
 5.2 Liquidity Lock
